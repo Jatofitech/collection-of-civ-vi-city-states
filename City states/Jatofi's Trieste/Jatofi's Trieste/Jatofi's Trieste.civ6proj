@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Jatofi's [COLOR_FLOAT_CULTURE]Trieste[ENDCOLOR]</Name>
+    <Guid>9ec228e8-64ff-43ac-bc63-045504a67339</Guid>
+    <ProjectGuid>6e9a5309-7649-4e1e-a565-3fc7960fc2c0</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Adds Trieste as a City State</Teaser>
+    <Description>-------------------------------------------[NEWLINE]CITY STATE -- TRIESTE[NEWLINE][NEWLINE]UNIQUE SUZERAIN BONUS: +100% [ICON_PRODUCTION] Production towards naval units.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Description>
+    <Authors>Jatofi</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Jatofi's Trieste</AssemblyName>
+    <RootNamespace>Jatofi's Trieste</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Core/Config.xml</File><File>Core/Picker.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Core/JTF_TRIESTE_Text.xml</File></UpdateText><UpdateIcons id="NewAction"><File>Core/JTF_TRIESTE_Icons.xml</File></UpdateIcons><UpdateColors id="NewAction"><File>Core/Colour.sql</File></UpdateColors></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/JTF_TRIESTE_GameDefines.sql</File><File>Core/JTF_TRIESTE_ModSupport.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Core/JTF_TRIESTE_Text.xml</File><File>Core/JTF_TRIESTE_CivPedia.xml</File></UpdateText><UpdateColors id="NewAction"><File>Core/Colour.sql</File></UpdateColors><UpdateIcons id="NewAction"><File>Core/JTF_TRIESTE_Icons.xml</File></UpdateIcons><UpdateArt id="NewAction"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Jatofi's Trieste.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Core\Colour.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_TRIESTE_CivPedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_TRIESTE_GameDefines.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_TRIESTE_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_TRIESTE_ModSupport.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_TRIESTE_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Picker.sql">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- NORILSK -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_NORILSK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Norilsk was founded at the end of the 1920s, but the official date of the city's foundation is traditionally held to be 1935, when the Norillag system of Gulag labour camp was established and prisoners began construction work on the A.P. Zavenyagin Norilsk Mining and Metallurgical Plant. Over the next few years Norilsk grew into a settlement for the Norilsk mining and metallurgical complex, and it was granted urban-type settlement status in 1939 and city status in 1953.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_NORILSK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				Norilsk is located atop some of the largest nickel deposits on Earth. Consequently, mining and smelting ore are the major industries. Norilsk is the center of a region where nickel, copper, cobalt, platinum, palladium, and coal are mined. The presence of mineral deposits in the Siberian Craton was known for two centuries before Norilsk was founded, but mining began only in 1939, when subterranean portions of the Norilsk-Talnakh intrusions were found beneath mountainous terrain.Norilsk is a center of non-ferrous metallurgy and is home to mining giant Norilsk Nickel's mining operations. The Norilsk-Talnakh nickel deposits are the largest-known nickel-copper-palladium deposits in the world. The smelting of the nickel ore is directly responsible for severe pollution, which generally takes the form of acid rain and smog. By some estimates, Norilsk's nickel mines produce 1 percent of global sulfur dioxide (SO2) emissions.
+			</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- ESZTERGOM -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_ESZTERGOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Esztergom was founded in the 10th century on the river Danube. The first hungarian king Stephen I was born in the town and crowned there in 1000. It remained the capital and royal residence of the early Árpád princes and kings and successive Hungarian kings until the mid-13th century. The archbishopric is the oldest in Hungary, dating from 1001; it moved to Trnava during the Turkish occupation (1543–1683) and returned in 1820. The town has long been the centre of Roman Catholicism in Hungary, and its archbishops are primate cardinals (since 1991 the archdiocese has been known as Esztergom-Budapest). Esztergom’s fortress, last restored in the 18th century, is still largely intact atop Várhegy (Castle Hill). The town’s great cathedral (built 1822–60), modeled on St. Peter’s in Rome, overlooks the Danube and is the largest church in Hungary, the outside height of the cupola being 348 feet (106 metres). The settlements of royal servants, merchants and craftsmen at the foot of the Várhegy (Castle Hill) developed into the most significant town during the age of the Árpád dynasty– these being the most important area of the economic life of the country. The town council was made up of the richest citizens of the town (residents of French, Spanish, Dutch, and Italian origin) who dealt with commerce. The coat of arms of Esztergom emerged from their seal in the 13th century. This was the town where foreign monarchs could meet Hungarian kings.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,122 @@
+
+--------------------------------------------------------------
+
+--=====
+--TYPES
+--=====
+INSERT INTO Types (Type, Kind)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG',							'KIND_CIVILIZATION'),
+		('JTF_LEADER_MINOR_CIV_REGENSBURG',						'KIND_LEADER'),
+		('JTF_MODIFIER_REGENSBURG',								'KIND_MODIFIER'),
+		('JTF_MINOR_CIV_REGENSBURG_TRAIT',						'KIND_TRAIT');
+
+--===============
+--TYPE PROPERTIES
+--===============
+INSERT INTO TypeProperties (Type, Name, Value)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'CityStateCategory', 'TRADE');
+
+--=============
+--CIVILIZATIONS
+--=============
+INSERT INTO Civilizations (CivilizationType, Name, Description, Adjective, StartingCivilizationLevelType, RandomCityNameDepth, Ethnicity)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'LOC_JTF_CIVILIZATION_REGENSBURG_NAME', 'LOC_JTF_CIVILIZATION_REGENSBURG_DESCRIPTION', 'LOC_JTF_CIVILIZATION_REGENSBURG_ADJECTIVE', 'CIVILIZATION_LEVEL_CITY_STATE', 1, 'ETHNICITY_EURO'); 
+
+--=======
+--LEADERS
+--=======
+INSERT INTO CivilizationLeaders (CivilizationType, LeaderType, CapitalName)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'JTF_LEADER_MINOR_CIV_REGENSBURG', 'LOC_JTF_CITY_NAME_REGENSBURG');
+
+INSERT INTO Leaders (LeaderType, Name, InheritFrom)
+	VALUES
+		('JTF_LEADER_MINOR_CIV_REGENSBURG', 'LOC_JTF_CIVILIZATION_REGENSBURG_NAME', 'LEADER_MINOR_CIV_TRADE');
+
+--======
+--TRAITS
+--======
+INSERT INTO LeaderTraits (LeaderType, TraitType)
+	VALUES
+		('JTF_LEADER_MINOR_CIV_REGENSBURG', 'JTF_MINOR_CIV_REGENSBURG_TRAIT');
+
+INSERT INTO Traits (TraitType, Name, Description)
+	VALUES
+		('JTF_MINOR_CIV_REGENSBURG_TRAIT', 'LOC_JTF_LEADER_TRAIT_REGENSBURG_NAME', 'LOC_JTF_LEADER_TRAIT_REGENSBURG_DESCRIPTION');
+
+--===============
+--TRAIT MODIFIERS
+--===============
+INSERT INTO TraitModifiers (TraitType, ModifierId)
+	VALUES
+		('JTF_MINOR_CIV_REGENSBURG_TRAIT', 'MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS');
+
+--=========
+--MODIFIERS
+--=========
+INSERT INTO Modifiers (ModifierId,						ModifierType,											SubjectRequirementSetId)	
+	VALUES
+		('MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS',					'MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER',			'PLAYER_IS_SUZERAIN'),
+		('MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS_MODIFIER',			'JTF_MODIFIER_REGENSBURG',						'JTF_REGENSBURG_HAS_COM_HUB');
+
+
+INSERT INTO DynamicModifiers (ModifierType, CollectionType, EffectType)
+	VALUES
+		('JTF_MODIFIER_REGENSBURG', 'COLLECTION_PLAYER_DISTRICTS', 'EFFECT_ADJUST_TRADE_ROUTE_CAPACITY');
+
+
+--==================
+--MODIFIER ARGUMENTS
+--==================
+INSERT INTO ModifierArguments (ModifierId, Name, Value)
+	VALUES
+		('MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS',					'ModifierId',		'MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS_MODIFIER'),
+		('MINOR_CIV_REGENSBURG_COM_HUB_TRADE_ROUTE_BONUS_MODIFIER',			'Amount',			1);
+
+--=========
+--REQUIREMENTS
+--=========
+INSERT INTO Requirements (RequirementId, RequirementType) 
+				VALUES ('REGENSBURG_REQUIRES_COM_HUB', 'REQUIREMENT_PLOT_DISTRICT_TYPE_MATCHES') ;
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value) 
+				VALUES ('REGENSBURG_REQUIRES_COM_HUB', 'DistrictType', 'DISTRICT_COMMERCIAL_HUB') ;
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType) 
+				VALUES ('JTF_REGENSBURG_HAS_COM_HUB', 'REQUIREMENTSET_TEST_ALL') ;
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId) 
+				VALUES ('JTF_REGENSBURG_HAS_COM_HUB', 'REGENSBURG_REQUIRES_COM_HUB') ;
+
+
+
+
+--==========
+--CITY NAMES
+--==========		
+INSERT INTO CityNames (CivilizationType, CityName)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'LOC_JTF_CITY_NAME_REGENSBURG');
+
+--=============
+--PLAYER COLORS
+--=============
+INSERT INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'Minor', 'COLOR_PLAYER_CITY_STATE_PRIMARY', 'COLOR_PLAYER_CITY_STATE_TRADE_SECONDARY', 'COLOR_PLAYER_CITY_STATE_TRADE_SECONDARY');
+
+--============
+--START BIASES
+--============
+
+		
+INSERT INTO StartBiasTerrains (CivilizationType, TerrainType, Tier)
+	VALUES
+		('JTF_CIVILIZATION_REGENSBURG', 'TERRAIN_PLAINS_HILLS', 1),
+		('JTF_CIVILIZATION_REGENSBURG', 'TERRAIN_GRASS_HILLS', 1),
+		
+		('JTF_CIVILIZATION_REGENSBURG', 'TERRAIN_GRASS', 2),		
+		('JTF_CIVILIZATION_REGENSBURG', 'TERRAIN_PLAINS', 2);

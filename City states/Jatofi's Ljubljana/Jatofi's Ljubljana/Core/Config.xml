@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ConfigYNAEMP -->
+
+<GameInfo>
+
+	<Parameters>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_LJUBLJANA" Name="LOC_JTF_CIVILIZATION_LJUBLJANA_NAME"  Description="LOC_JTF_CIVILIZATION_LJUBLJANA_DESCRIPTION1" Domain="bool" DefaultValue="0"  ConfigurationGroup="Map" ConfigurationId="JTF_LEADER_MINOR_CIV_LJUBLJANA" GroupId="MapOptions" SortIndex="90"/>
+	</Parameters>
+
+	<ParameterDependencies>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_LJUBLJANA" ConfigurationGroup="Map" ConfigurationId="SelectCityStates" Operator="Equals" ConfigurationValue="1"/>
+	</ParameterDependencies>
+
+</GameInfo>

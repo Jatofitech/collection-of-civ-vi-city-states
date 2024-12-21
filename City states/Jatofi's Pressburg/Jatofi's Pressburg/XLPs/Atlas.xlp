@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Atlas"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_128"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_200"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_22"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_256"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_30"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_36"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_44"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_48"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_50"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_64"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JTF_PRESSBURG_Atlas_80"/>
+			<m_ObjectName text="JTF_PRESSBURG_Atlas_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

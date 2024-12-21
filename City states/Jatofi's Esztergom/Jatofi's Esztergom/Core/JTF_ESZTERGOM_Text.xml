@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ESZTERGOM -->
+		<Row Tag="LOC_JTF_CIVILIZATION_ESZTERGOM_NAME" Language="en_US">
+			<Text>Esztergom</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_ESZTERGOM_DESCRIPTION" Language="en_US">
+			<Text>Esztergom city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_ESZTERGOM_ADJECTIVE" Language="en_US">
+			<Text>Esztergom</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_ESZTERGOM" Language="en_US">
+			<Text>Esztergom</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_ESZTERGOM_NAME" Language="en_US">
+			<Text>Esztergom Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_ESZTERGOM_DESCRIPTION" Language="en_US">
+			<Text>Your Commercial Hubs yield +3[ICON_FAITH] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_ESZTERGOM_DESCRIPTION1" Language="en_US">
+			<Text>Your Commercial Hubs yield +3[ICON_FAITH] Faith.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

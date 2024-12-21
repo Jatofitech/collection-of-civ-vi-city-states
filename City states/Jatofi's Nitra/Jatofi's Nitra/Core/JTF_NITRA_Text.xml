@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- NITRA -->
+		<Row Tag="LOC_JTF_CIVILIZATION_NITRA_NAME" Language="en_US">
+			<Text>Nitra</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NITRA_DESCRIPTION" Language="en_US">
+			<Text>Nitra city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NITRA_ADJECTIVE" Language="en_US">
+			<Text>Nitra</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_NITRA" Language="en_US">
+			<Text>Nitra</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NITRA_NAME" Language="en_US">
+			<Text>Nitra Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NITRA_DESCRIPTION" Language="en_US">
+			<Text>+2[ICON_FAITH] Faith for each level of walls. Build Ancient walls 50% faster.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NITRA_DESCRIPTION1" Language="en_US">
+			<Text>+2[ICON_FAITH] Faith for each level of walls. Build Ancient walls 50% faster.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

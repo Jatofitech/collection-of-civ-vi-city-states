@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- LJUBLJANA -->
+		<Row Tag="LOC_JTF_CIVILIZATION_LJUBLJANA_NAME" Language="en_US">
+			<Text>Ljubljana</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_LJUBLJANA_DESCRIPTION" Language="en_US">
+			<Text>Ljubljana city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_LJUBLJANA_ADJECTIVE" Language="en_US">
+			<Text>Ljubljana</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_LJUBLJANA" Language="en_US">
+			<Text>Ljubljana</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_LJUBLJANA_NAME" Language="en_US">
+			<Text>Ljubljanaňň Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_LJUBLJANA_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_CULTURE] Culture adjacency bonus from your Theater squares.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_LJUBLJANA_DESCRIPTION1" Language="en_US">
+			<Text>+100% [ICON_CULTURE] Culture adjacency bonus from your Theater squares.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS]Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- PRESSBURG -->
+		<Row Tag="LOC_JTF_CIVILIZATION_PRESSBURG_NAME" Language="en_US">
+			<Text>Pressburg</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_PRESSBURG_DESCRIPTION" Language="en_US">
+			<Text>Pressburg city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_PRESSBURG_ADJECTIVE" Language="en_US">
+			<Text>Pressburg</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_PRESSBURG" Language="en_US">
+			<Text>Pressburg</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PRESSBURG_NAME" Language="en_US">
+			<Text>Pressburg Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PRESSBURG_DESCRIPTION" Language="en_US">
+			<Text>Workshops provide +2[ICON_CULTURE] Culture and +1[ICON_GOLD] Gold. Your Theater squares provide +1 [ICON_GreatPerson] Great Person points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PRESSBURG_DESCRIPTION1" Language="en_US">
+			<Text>Workshops provide +2[ICON_CULTURE] Culture and +1[ICON_GOLD] Gold. Your Theater squares provide +1 [ICON_GreatPerson] Great Person points per turn.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

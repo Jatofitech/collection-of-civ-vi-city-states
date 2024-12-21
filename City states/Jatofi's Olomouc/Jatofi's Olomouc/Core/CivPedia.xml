@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- OLOMOUC -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_OLOMOUC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The history of Olomouc dates back to at least the 7th century, when the countryside around Olomouc Hill and the area near the convenient ford across the Morava River became the home of the first Slavic settlers. Numerous archeological findings, however, have proven that the area beneath the city was inhabited long before – in Roman times by Germanic peoples, preceded by the settlements of earlier prehistoric cultures. At the beginning of the 9th century, the local Slavic fortified settlement became one of the border strongholds of Great Moravia. After the demise of the Great Moravian Empire in the 10th century and the subsequent connection of Moravia to the Czech principality, Olomouc’s importance continued to increase. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_OLOMOUC_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The earliest mention of the local early medieval fortified castle that served as the seat of the ruling princes of the Přemyslid dynasty for the next two centuries comes from the year 1055. In 1063, the Moravian bishopric was officially restored in Olomouc, but it is believed that it functioned here from as early as from the 10th century. The actual medieval royal city was founded before the middle of the 13th century on the foundations of an older artisan and mercantile settlement below the castle. Its further development was therefore predestined by its previous functions as an administrative, ecclesiastical, commercial, and military center, roles which the city fulfills even today. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_OLOMOUC_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In the Middle Ages, Olomouc, together with Brno, played an important role as one of the main cities of the Moravian Margraviate. It achieved its first period of blossom in this role during the rule of the House of Luxembourg, the period responsible for the architectural core of the local city hall. During the Hussite wars, Olomouc was a strong Catholic bastion, largely due to the endeavors of the Bishop of Olomouc Jan Železný with his reputation as a successful military strategist.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_OLOMOUC_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The city’s true economic and cultural boom came with the Moravian government of Matthias Corvinus, when the parish church of St. Maurice was built, then in the Jagiellonian era of the turn of the 15th and 16th centuries. Olomouc then became a center of humanistic education, managed a high-level municipal Latin school, and could boast its own unique astronomical clock on its city hall as well as a number of rich burgher houses. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_OLOMOUC_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>After the golden era of economic prosperity in the 16th century, when the city also received a Jesuit university, second in the Czech Republic only to Prague, it was scourged by a rapid era of decline. The Thirty Years War and the eight-year Swedish occupation of Olomouc brought severe damages. The subsequent Baroque reconstruction of the city from the middle 17th century soon gave it a new and grandiose monumental appearance. A number of imposing palaces, monasteries, and churches were built, as were the Holy Trinity Column and its collection of fountain statues admired even today, practically serving as the city’s heraldic monument. The turbulent period of the country in the 18th century saw Olomouc’s transformation into an Austrian border fortress where it was held for a long time; paradoxically, this spared the historic town center from the rapid modernization of the industrial age.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

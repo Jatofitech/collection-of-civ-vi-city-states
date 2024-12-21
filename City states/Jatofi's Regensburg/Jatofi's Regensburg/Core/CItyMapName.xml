@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CItyMapName -->
+<!-- Author: jakub -->
+<!-- DateCreated: 8/22/2022 12:02:42 PM -->
+<GameData>
+	<CityMap>
+		<Replace MapName="PlayEuropeAgain" X="45" Y="50" CityLocaleName="LOC_JTF_CITY_NAME_REGENSBURG" />
+	</CityMap>
+</GameData>

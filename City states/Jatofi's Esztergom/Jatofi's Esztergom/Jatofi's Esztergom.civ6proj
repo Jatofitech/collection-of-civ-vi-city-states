@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Jatofi's [COLOR_FLOAT_CULTURE]Esztergom[ENDCOLOR]</Name>
+    <Guid>9fd17a11-9d97-4fd0-b7c9-278b82fb8ab6</Guid>
+    <ProjectGuid>026f76e1-a61c-4309-8ead-df2954224a9d</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Adds Esztergom as a City State</Teaser>
+    <Description>-------------------------------------------[NEWLINE]CITY STATE -- ESZTERGOM[NEWLINE][NEWLINE]UNIQUE SUZERAIN BONUS: Your Commercial Hubs yield +3[ICON_FAITH] Faith.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Description>
+    <Authors>Jatofi</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Jatofi's Esztergom</AssemblyName>
+    <RootNamespace>Jatofi's Esztergom</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="NewAction"><File>Core/Picker.sql</File><File>Core/Config.xml</File></UpdateDatabase><UpdateIcons id="NewAction"><File>Core/JTF_ESZTERGOM_Icons.xml</File></UpdateIcons><UpdateText id="NewAction"><File>Core/JTF_ESZTERGOM_Text.xml</File></UpdateText><UpdateColors id="NewAction"><File>Core/Colour.sql</File></UpdateColors></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>Core/JTF_ESZTERGOM_GameDefines.sql</File></UpdateDatabase><UpdateText id="NewAction"><File>Core/JTF_ESZTERGOM_Text.xml</File><File>Core/JTF_ESZTERGOM_CivPedia.xml</File></UpdateText><UpdateIcons id="NewAction"><File>Core/JTF_ESZTERGOM_Icons.xml</File></UpdateIcons><UpdateArt id="NewAction"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateColors id="NewAction"><File>Core/Colour.sql</File></UpdateColors></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Jatofi's Esztergom.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Core\Colour.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_ESZTERGOM_CivPedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_ESZTERGOM_GameDefines.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_ESZTERGOM_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\JTF_ESZTERGOM_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\ModSupport.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\Picker.sql">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

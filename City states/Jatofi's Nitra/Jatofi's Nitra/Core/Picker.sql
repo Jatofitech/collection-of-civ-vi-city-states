@@ -1,0 +1,21 @@
+-- Picker
+-- Author: JTF
+-- DateCreated: 12/18/2020 2:02:37 PM
+--------------------------------------------------------------
+
+
+
+
+
+
+INSERT INTO CityStates (CivilizationType, CityStateCategory, Name, Icon, Bonus)
+VALUES ('JTF_CIVILIZATION_NITRA', 'MILITARISTIC', 'LOC_JTF_CIVILIZATION_NITRA_NAME', 'ICON_JTF_CIVILIZATION_NITRA', 'LOC_JTF_LEADER_TRAIT_NITRA_DESCRIPTION1');
+
+
+
+INSERT INTO CityStates (Domain, CivilizationType, CityStateCategory, Name, Icon, Bonus)
+VALUES ('Expansion1CityStates', 'JTF_CIVILIZATION_NITRA', 'MILITARISTIC', 'LOC_JTF_CIVILIZATION_NITRA_NAME', 'ICON_JTF_CIVILIZATION_NITRA', 'LOC_JTF_LEADER_TRAIT_NITRA_DESCRIPTION1');
+
+
+INSERT INTO CityStates (Domain, CivilizationType, CityStateCategory, Name, Icon, Bonus)
+VALUES ('Expansion2CityStates', 'JTF_CIVILIZATION_NITRA', 'MILITARISTIC', 'LOC_JTF_CIVILIZATION_NITRA_NAME', 'ICON_JTF_CIVILIZATION_NITRA', 'LOC_JTF_LEADER_TRAIT_NITRA_DESCRIPTION1');

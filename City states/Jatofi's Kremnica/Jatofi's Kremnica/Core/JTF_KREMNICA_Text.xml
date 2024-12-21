@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- KREMNICA -->
+		<Row Tag="LOC_JTF_CIVILIZATION_KREMNICA_NAME" Language="en_US">
+			<Text>Kremnica</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_KREMNICA_DESCRIPTION" Language="en_US">
+			<Text>Kremnica city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_KREMNICA_ADJECTIVE" Language="en_US">
+			<Text>Kremnica</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_KREMNICA" Language="en_US">
+			<Text>Kremnica</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_KREMNICA_NAME" Language="en_US">
+			<Text>Kremnica Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_KREMNICA_DESCRIPTION" Language="en_US">
+			<Text>Mines over luxury and bonus resources yield +3[ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_KREMNICA_DESCRIPTION1" Language="en_US">
+			<Text>Mines over luxury and bonus resources yield +3[ICON_GOLD] Gold.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

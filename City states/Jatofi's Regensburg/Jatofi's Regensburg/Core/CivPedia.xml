@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- REGENSBURG -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_REGENSBURG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Regensburg is a city with more than 2,500 years of history. The Celts arrived somewhere around 500 B.C.; four centuries later, around 90 B.C., the Romans established a military camp nearby. By 179 A.D., in the time of Emperor Marcus Aurelius, there was a permanent fortress named Castra Regina within the boundaries of what is now Regenburg's Altstadt. In the 6th Century A.D., the first Duke of Agilofinger established his royal seat in "Reganespurc," which became the first capital of Bavaria.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_REGENSBURG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>St. Boniface founded a bishopric in Regensburg in 739, and Charlemagne ousted the Agilofinger dynasty in 788. The city continued to grow, albeit slowly, until the Steinerne Brücke was built between 1135 and 1146. This unprecedented stone bridge across the Danube opened major international trade routes between Northern Europe and Venice, and much of Regensburg as it exists today was built by wealthy merchant families over the next few centuries. These traders had no compunctions about flaunting their wealth; some of their houses had purely decorative towers that made them the McMansions of the Middle Ages.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_REGENSBURG_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Free Imperial City of Regensburg existed for 600 years. But as trade routes changed, the city's fortunes declined and many of the patrician families left for better opportunities elsewhere. Regensburg got a second wind in 1663, when a permanent Reichstag or Imperial Diet of the Holy Roman Empire was established within its walls. The old merchants' houses were taken over by bureaucrats and emissaries, and Regensburg was the seat of Germany's first parliament for 150 years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_REGENSBURG_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The empire was dissolved in 1806; three years later, the city was conquered by Napoleon's troops and turned over to Bavaria. Although many events have taken place since, Regensburg's Altstadt looks much as it did during its heyday as a Free Imperial City, with some 1,400 registered and carefully preserved medieval buildings that coexist with structures from the Roman Era.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

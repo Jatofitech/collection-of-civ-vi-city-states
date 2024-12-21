@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_22.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_30.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_36.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_44.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_48.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_50.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_64.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_80.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_128.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_200.dds"/>
+		<Row Name="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="JTF_OLOMOUC_Atlas_256.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_JTF_CIVILIZATION_OLOMOUC"	Atlas="ICON_ATLAS_JTF_OLOMOUC_CITYSTATES"	Index="0"/>
+	</IconDefinitions>
+</GameInfo>

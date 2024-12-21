@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- TRIESTE -->
+		<Row Tag="LOC_JTF_CIVILIZATION_TRIESTE_NAME" Language="en_US">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_TRIESTE_DESCRIPTION" Language="en_US">
+			<Text>Trieste city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_TRIESTE_ADJECTIVE" Language="en_US">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_TRIESTE" Language="en_US">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_TRIESTE_NAME" Language="en_US">
+			<Text>Trieste Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_TRIESTE_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_PRODUCTION] Production towards naval units.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_TRIESTE_DESCRIPTION1" Language="en_US">
+			<Text>+100% [ICON_PRODUCTION] Production towards naval units.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Central Europe[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

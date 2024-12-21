@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- PULA -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Many people lived in Pula, dating back to 6000-2000 BC. The first mention of the name Pula, in its plural as "Polai" occurred in 3rd century b.c., in the work of Greek poets Callimachus and Lycophron in the mythological story of Jason and Medea. Jason, of course, stole the golden fleece, and with the help of Medea run away. Colchis were chasing them, but could not catch Jason, a very skilled sea traveler. They didn't dare to return without the golden fleece, so they settled in the upper Adriatic, where the Illiric tribe lived, and named the city - The City of Refuges, in their language - Polai. Centuries later greek pottery was found, as well as parts of a statue representing Apollo, and some other traces of Greek culture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The beginning of Roman domination (177 b.c.) in the Istrian peninsula, was the beginning of ethnic changes and romanization. Around 46-45 b.c. Pula got the rank of a Roman colony, which resulted in intense development, with a big surrounding area under its jurisdiction. The formation of this Roman colony dates to the time of Caesar, and the task of foundation was entrusted to a couple of influential Romans: one was Caesar's father in law, and the other one was Cassius Longinus, brother of another Cassius, who entered the history as Caesar's assassin. The names of founders are engraved in the oldest standing Roman monument in Pula, the Hercules Gate, which also shows the bearded head of this mythical hero who the Romans, along with other deities and heroes, adopted from Greek mythology.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Feudalism arrived in the last part of the 8th century (788 a.d.) with the rule of the Franks. Istria became part of the big, feudal state of Charles the Great, or Charlemagne. A bigger state allowed more intensive colonization of Croats. From 13th century Istria we have a very important document of Croatian culture - "Istarski Razvod", a work written in Latin, German, and Croatian, with the oldest Croatian alphabet called glagoljica.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The Venetians took over Pula in 1331 and would rule the city until 1797. During the 14th, 15th and 16th centuries, Pula was attacked and occupied by the Genoese, the Hungarian army and the Habsburgs; several outlying medieval settlements and towns were destroyed. In addition to war, the plague, malaria and typhoid ravaged the city. By the 1750s there were only 3,000 inhabitants left in ancient city, an area now covered with weeds and ivy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>With the collapse of the Venetian Republic in 1797 following Napoleon's Treaty of Campo Formio, the city became part of the Habsburg monarchy. It was invaded again in 1805 after the French had defeated the Austrians. It was included in the French Empire of Napoleon as part of the Kingdom of Italy, then placed directly under the French Empire's Illyrian Provinces.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>In 1813, Pola (with Istria) came back to the Austrian Empire. Under the compromise of 1867, the town – under the original Italian name, Pola – remained in Austria-Hungary until the latter's defeat and dissolution in 1918. Under Austrian rule, Pola regained prosperity. Its large natural harbour became Austria's main naval base and a major shipbuilding centre. It was chosen for the base in 1859 by Hans Dahlerup, a Danish admiral in the service of Austria. Subsequently, Pola grew from a fading provincial town into an industrial city. The island of Brioni (in Croatian renamed Brijuni) to the North West of Pola became the summer vacation resort of Austria's Habsburg royal family. In World War I, the port was the main base for Austro-Hungarian dreadnoughts and other naval forces of the Empire. During this period many inhabitants were Italian speaking. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PULA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The end of WWI, 1918, marked the end of the Austro-Hungarian Empire, and Istria was handed to Italy. The times were hard, economically and politically. Workers in the Arsenal in Pula were laid off, giving rise to explosive situations. Indeed, at the May 1st (international worker's day) demonstrations in 1920, there was a bloody clash with police and 4 workers were killed: a Croat, a Czech, an Austrian, and an Italian (as if somebody was applying a political diversification formula). During the twenties and later, fascism was on the rise.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

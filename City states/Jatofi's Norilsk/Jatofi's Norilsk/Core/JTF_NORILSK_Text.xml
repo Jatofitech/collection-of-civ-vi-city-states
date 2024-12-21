@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- NORILSK -->
+		<Row Tag="LOC_JTF_CIVILIZATION_NORILSK_NAME" Language="en_US">
+			<Text>Norilsk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NORILSK_DESCRIPTION" Language="en_US">
+			<Text>Norilsk city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NORILSK_ADJECTIVE" Language="en_US">
+			<Text>Norilsk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_NORILSK" Language="en_US">
+			<Text>Norilsk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NORILSK_NAME" Language="en_US">
+			<Text>Norilsk Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NORILSK_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines [NewLine]Additional +1 [ICON_PRODUCTION] Production when you reach the Industrial Era.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NORILSK_DESCRIPTION1" Language="en_US">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines [NewLine]Additional +1 [ICON_PRODUCTION] Production when you reach the Industrial Era.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS] Siberia[ENDCOLOR]</Text>
+		</Row>		
+		
+		
+	</LocalizedText>
+</GameData>

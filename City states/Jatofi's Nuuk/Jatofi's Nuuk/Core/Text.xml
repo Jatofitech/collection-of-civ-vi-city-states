@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- NUUK -->
+		<Row Tag="LOC_JTF_CIVILIZATION_NUUK_NAME" Language="en_US">
+			<Text>Nuuk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NUUK_DESCRIPTION" Language="en_US">
+			<Text>Nuuk city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_NUUK_ADJECTIVE" Language="en_US">
+			<Text>Nuuk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_NUUK" Language="en_US">
+			<Text>Nuuk</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NUUK_NAME" Language="en_US">
+			<Text>Nuuk Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NUUK_DESCRIPTION" Language="en_US">
+			<Text>Snow tiles provide +2[ICON_FOOD] Food. Snow hills provide an additional +1[ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_NUUK_DESCRIPTION1" Language="en_US">
+			<Text>Snow tiles provide +2[ICON_FOOD] Food. Snow hills provide an additional +1[ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS]Greenland[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

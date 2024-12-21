@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- PRESSBURG -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The first known permanent settlement of the area began with the Linear Pottery Culture, around 5000 BC in the Neolithic era. About 200 BC, the Celtic Boii tribe founded the first significant settlement, a fortified town known as an oppidum. They also established a mint, producing silver coins known as biatecs. The area fell under Roman influence from the 1st to the 4th century AD and was made part of the Danubian Limes, a border defence system. The Romans introduced grape growing to the area and began a tradition of winemaking, which survives to the present.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Slavs arrived from the East between the 5th and 6th centuries during the Migration Period. As a response to onslaughts by Avars, the local Slavic tribes rebelled and established Samo's Empire (623–658), the first known Slavic political entity. In the 9th century, the castles at Bratislava (Brezalauspurk) and Devín (Dowina) were important centres of the Slavic states: the Principality of Nitra and Great Moravia Scholars have debated the identification as fortresses of the two castles built in Great Moravia, based on linguistic arguments and because of the absence of convincing archaeological evidence.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The first written reference to a settlement named "Brezalauspurc" dates to 907 and is related to the Battle of Pressburg, during which a Bavarian army was defeated by the Hungarians. It is connected to the fall of Great Moravia, already weakened by its own inner decline and under the attacks of the Hungarians. The exact location of the battle remains unknown, and some interpretations place it west of Lake Balaton.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In the 10th century, the territory of Pressburg (what would later become Pozsony county) became part of Hungary (called the "Kingdom of Hungary" from 1000). It developed as a key economic and administrative centre on the kingdom's frontier. This strategic position destined the city to be the site of frequent attacks and battles, but also brought it economic development and high political status. It was granted its first known "town privileges" in 1291 by the Hungarian King Andrew III, and was declared a free royal town in 1405 by King Sigismund. In 1436 he authorized the town to use its own coat of arms</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The Kingdom of Hungary was defeated by the Ottoman Empire in the Battle of Mohács in 1526. The Turks besieged and damaged Pressburg, but failed to conquer it. Owing to Ottoman advances into Hungarian territory, the city was designated the new capital of Hungary in 1536, after becoming part of the Habsburg monarchy and marking the beginning of a new era. The city became a coronation town and the seat of kings, archbishops (1543), the nobility and all major organisations and offices. Between 1536 and 1830, eleven Hungarian kings and queens were crowned at St. Martin's Cathedral. The 17th century was marked by anti-Habsburg uprisings, fighting with the Turks, floods, plagues and other disasters, which diminished the population.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Pressburg flourished during the 18th-century reign of Queen Maria Theresa, becoming the largest and most important town in Hungary. The population tripled; many new palaces, monasteries, mansions, and streets were built, and the city was the centre of social and cultural life of the region. Wolfgang Amadeus Mozart gave a concert in 1762 in the Pálffy Palace. Joseph Haydn performed in 1784 in the Grassalkovich Palace. Ludwig van Beethoven was a guest in 1796 in the Keglević Palace.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_PRESSBURG_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The city started to lose its importance under the reign of Maria Theresa's son Joseph II. Many central offices subsequently moved to Buda, followed by a large segment of the nobility.In the course of the 18th century, the city became a centre for the Slovak national movement. The city's 19th-century history was closely tied to the major events in Europe. The Peace of Pressburg between Austria and France was signed here in 1805. Industry developed rapidly in the 19th century. After The Great War, Pressburg was occupied and incorporated into Czechoslovakia. On March 27, 1919, the name Bratislava was officially adopted for the first time to replace the previous Slovak name Prešporok (Pressburg).</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

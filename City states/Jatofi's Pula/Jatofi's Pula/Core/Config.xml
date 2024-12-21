@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ConfigYNAEMP -->
+
+<GameInfo>
+
+	<Parameters>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_PULA" Name="LOC_JTF_CIVILIZATION_PULA_NAME"  Description="LOC_JTF_CIVILIZATION_PULA_DESCRIPTION1" Domain="bool" DefaultValue="0"  ConfigurationGroup="Map" ConfigurationId="JTF_LEADER_MINOR_CIV_PULA" GroupId="MapOptions" SortIndex="90"/>
+	</Parameters>
+
+	<ParameterDependencies>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_PULA" ConfigurationGroup="Map" ConfigurationId="SelectCityStates" Operator="Equals" ConfigurationValue="1"/>
+	</ParameterDependencies>
+
+</GameInfo>

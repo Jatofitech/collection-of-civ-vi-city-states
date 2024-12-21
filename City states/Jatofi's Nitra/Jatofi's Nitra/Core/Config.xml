@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ConfigYNAEMP -->
+<!-- Author: JTF -->
+<!-- DateCreated: 8/8/2019 3:28:10 PM -->
+
+<GameInfo>
+
+	<Parameters>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_NITRA" Name="LOC_JTF_CIVILIZATION_NITRA_NAME"  Description="LOC_JTF_CIVILIZATION_NITRA_DESCRIPTION1" Domain="bool" DefaultValue="0"  ConfigurationGroup="Map" ConfigurationId="JTF_LEADER_MINOR_CIV_NITRA" GroupId="MapOptions" SortIndex="90"/>
+	</Parameters>
+
+	<ParameterDependencies>
+		<Replace ParameterId="JTF_LEADER_MINOR_CIV_NITRA" ConfigurationGroup="Map" ConfigurationId="SelectCityStates" Operator="Equals" ConfigurationValue="1"/>
+	</ParameterDependencies>
+
+</GameInfo>

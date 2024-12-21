@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- PULA -->
+		<Row Tag="LOC_JTF_CIVILIZATION_PULA_NAME" Language="en_US">
+			<Text>Pula</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_PULA_DESCRIPTION" Language="en_US">
+			<Text>Pula city-state</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CIVILIZATION_PULA_ADJECTIVE" Language="en_US">
+			<Text>Pula</Text>
+		</Row>
+		<Row Tag="LOC_JTF_CITY_NAME_PULA" Language="en_US">
+			<Text>Pula</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PULA_NAME" Language="en_US">
+			<Text>Pula Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PULA_DESCRIPTION" Language="en_US">
+			<Text>Build the Arsenal district 50% faster.</Text>
+		</Row>
+		<Row Tag="LOC_JTF_LEADER_TRAIT_PULA_DESCRIPTION1" Language="en_US">
+			<Text>Build the Arsenal district 50% faster.[NewLine][NewLine][ICON_LocationPip][COLOR:ResProductionLabelCS]Balkans[ENDCOLOR]</Text>
+		</Row>		
+	</LocalizedText>
+</GameData>

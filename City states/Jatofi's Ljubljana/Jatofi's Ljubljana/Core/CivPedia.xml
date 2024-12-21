@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- LJUBLJANA -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As its inhabitants and numerous visitors will tell you, Ljubljana is, indeed, a people-friendly city. Categorised as a medium-sized European city, it offers everything a metropolis does yet preserves its small-town friendliness. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Its geographical position in the centre of Europe has determined Ljubljana as a natural meeting place for merchants and soldiers as well as - and more than once - peacemakers. The victors of the Napoleonic wars selected this peaceful city as the site of the Holy Alliance congress, which in 1821 sealed the European political geography for years to come.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In Ljubljana the old meets the new; and it seems that history has spent all of the settlement's five millennia preparing it to become the nation's capital. It has managed to retain traces from all periods of its rich history; from the legacy of Roman Emona; through to the Renaissance, Baroque and Art Nouveau periods characterised in the house fronts and ornate doorways of the city centre, the romantic bridges adorning the Ljubljanica river, the lopsided rooftops and a park reaching deep into the city centre. Here eastern and western cultures met; and the Italian concept of art combined with the sculptural aesthetics of Central European cathedrals.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The city owes its present appearance partly to Italian baroque and partly to Art Nouveau, which is the style of the numerous buildings erected immediately after the earthquake of 1895. In the first half of the 20th century, modern Ljubljana was shaped by the strong personal style of Jože Plečnik, a great European architect and a local of Ljubljana. The cityscape was complemented by his modernist followers as well as by creations of the "New Wave" of acknowledged young architects. All the different facets of Ljubljana blend harmoniously into a single image.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Ljubljana is a city of culture. It is home to numerous theatres, museums and galleries, and boasts one of the oldest philharmonic orchestras in the world. The first music society in Slovenia, the Academia philharmonicorum, was founded in 1701. It was a vehicle for baroque music and also facilitated the development of musical production in this region. Its honorary members included such renowned composers as Joseph Haydn, Ludwig van Beethoven and Johannes Brahms, and distinguished musicians such as the violinist Nicolo Paganini. Between 1881 and 1882, at the very start of his career, Gustav Mahler was its resident conductor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_LJUBLJANA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>For the people of Ljubljana culture is a way of living and thinking and is very much a part of everyday life. Over 10,000 cultural events take place in the city every year, among which there are 10 international festivals. The inhabitants of Ljubljana and its visitors can admire artists from all the different fields - from music, theatre and fine arts to the alternative and avant-garde. In warmer months, the tables and chairs of the numerous cafés fill the banks of the Ljubljanica and the old city markets. It is here, after an almost obligatory Saturday visit to the Ljubljana market or the Sunday flea market, that the locals meet for a morning coffee or for an evening chat with friends.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author: JTF -->
+
+<GameData>
+	<LocalizedText>
+		<!-- KREMNICA -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_KREMNICA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kremnica was among the major mining towns of the world during the Middle Ages and in the modern era due to the abundant gold ore deposits in the Kremnica Mountains. However, the first evidence of sub-surface mining activities comes from the 9th century. In the 13th century the inhabitants of this area were affected by the invasion of the Mongols. Following that difficult period, Hungarian kings invited new colonists from Germany to settle in the region to help replenish the decimated population. Their innovative technology and knowledge restored the mining activities in the town. The first written reference to the town dates back to 1328, when it was granted royal town privileges by King Charles I of Hungary. The town's mint was already in existence at the time of the granting of royal privileges. Starting in 1335 the mint produced golden florins and later the famous "Kremnica ducats", which were used as an international means of payment as a result of their consistently high purity of gold. It was the most important mint, and later the only one, in the Kingdom of Hungary, in Czechoslovakia and nowadays in Slovakia; the prosperity brought to the town led to it being given the nickname "Golden Kremnica". </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_JTF_CIVILIZATION_KREMNICA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In 1331, Kremnica became the seat of the Chamber Count (Kammergraf) who was the head of the most important mining and minting chamber of the Kingdom of Hungary. The Count administered all the mines and mints in twelve counties of the kingdom in the Middle Ages. At the end of the 14th century, Kremnica became the capital of the mining towns in central Upper Hungary. The steady annual production of gold and silver guaranteed the prosperous development of the town. In the 15th century Kreminca was the second most important city in the Kingdom of Hungary. The town was continuously being granted new privileges and the deputies of the town occupied the second place in the Hungarian Diet (the first place was reserved for the representatives of Buda, the capital of the Kingdom). Gold mining and coin production in Kremnica culminated in the 14th and 15th centuries.The last gold was extracted in Kremnica in 1970, at which time all the mines were closed.</Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>
