@@ -1,7 +1,9 @@
 # Jatofi's Civilization VI City-state collection
+## ![Banner](https://github.com/user-attachments/assets/f4dc18f2-0ab9-4f46-9080-018348669ab9)
 This is collection of all Civilization VI city state mods I have made. This repository serves as a sort of learning guide or tutorial for those, who want to start Civ VI modding. Each City-state is 
 
-## Included City-states:
+
+Included City-states:
 - Norilsk
 - Esztergom
 - Kremnica
@@ -14,4 +16,4 @@ This is collection of all Civilization VI city state mods I have made. This repo
 - Regensburg
 - Nuuk
 ---
-Most of these City-states were made for my [East-Centra Europe City-states](https://steamcommunity.com/sharedfiles/filedetails/?id=2833648615) collection, but some are from other parts of the world. You can download them directly from my [Steam workshop](https://steamcommunity.com/profiles/76561199022022271/myworkshopfiles/?appid=289070), or alternatively from this github repository.
+Most of these City-states were made for my [East-Central Europe City-states](https://steamcommunity.com/sharedfiles/filedetails/?id=2833648615) collection, but some are from other parts of the world. You can download them directly from my [Steam workshop](https://steamcommunity.com/profiles/76561199022022271/myworkshopfiles/?appid=289070), or alternatively from this github repository.
